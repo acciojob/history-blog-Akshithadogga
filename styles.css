@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+p{
+	font-weight:thin;
+}
+h1{
+	font-weight:lighter;
+}
